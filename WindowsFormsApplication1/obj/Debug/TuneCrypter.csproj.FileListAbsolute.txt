@@ -1,0 +1,3 @@
+C:\Users\Victoria\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\TuneCrypter.exe.config
+C:\Users\Victoria\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TuneCrypter.exe
+C:\Users\Victoria\Documents\Visual Studio 2015\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\TuneCrypter.pdb
